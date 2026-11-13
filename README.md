@@ -70,6 +70,6 @@ flowchart LR
 
 ---
 
-**Seu sindicato, associação ou escritório quer um app assim?** → [WhatsApp](https://wa.me/5587996032135?text=Ol%C3%A1%20Dimmi%2C%20vi%20seu%20GitHub%20e%20quero%20conversar%20sobre%20um%20projeto.) · [atossofts.com.br](https://atossofts.com.br) · [LinkedIn](https://www.linkedin.com/in/dimmisueg/)
+**Seu sindicato, associação ou escritório quer um app assim?** → [WhatsApp](https://wa.me/5587996032135?text=Ol%C3%A1%20Dimmi%2C%20vi%20seu%20GitHub%20e%20quero%20conversar%20sobre%20um%20projeto.) · [contato@atossofts.com.br](mailto:contato@atossofts.com.br) · [atossofts.com.br](https://atossofts.com.br) · [LinkedIn](https://www.linkedin.com/in/dimmisueg/)
 
 <sub>🇺🇸 Multi-tenant SaaS for Brazilian labor unions: Flutter app + React admin + Laravel API, digital member card, assemblies, polls, dues billing (Asaas) and a Claude-powered legal assistant with per-plan usage limits. Client code is private.</sub>
