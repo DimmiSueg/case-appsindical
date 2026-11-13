@@ -4,6 +4,17 @@
 > **Entrega:** [AtosSofts](https://atossofts.com.br)
 > **Código:** privado (propriedade do cliente). Este repositório mostra só a arquitetura e as funcionalidades.
 
+<p align="center">
+  <img src="img/1-inicio.jpg" width="190" alt="Tela inicial com módulos e o Assistente Jurídico IA">
+  <img src="img/2-consulta-ia.jpg" width="190" alt="Consulta Jurídica IA: descreva seu caso">
+  <img src="img/3-ia-formulario.jpg" width="190" alt="A IA pede os dados que faltam para calcular a rescisão">
+  <img src="img/5-enquete.jpg" width="190" alt="Enquete com resultado em tempo real">
+</p>
+<p align="center">
+  <img src="img/4-carteirinha.jpg" width="380" alt="Carteirinha digital com QR Code (dados do associado ocultados)">
+</p>
+<p align="center"><sub>Telas do app em uso por um dos sindicatos atendidos (Sincoplan). Dados pessoais do associado ocultados.</sub></p>
+
 ---
 
 ## O problema
@@ -15,7 +26,7 @@ O sindicato precisa falar com milhares de associados, mas tudo depende de grupo 
 Uma plataforma **SaaS multi-sindicato**, em que cada sindicato tem o seu espaço, com **painel web** para a diretoria e **app Android/iOS** para os associados.
 
 ### ⚖️ Assistente Jurídico com IA
-O associado pergunta, por exemplo, *"fui demitido sem justa causa, quais são meus direitos?"*, e recebe uma orientação baseada na CLT, em linguagem simples, a qualquer hora. Funciona com o **Claude (Anthropic)**, com:
+O associado pergunta, por exemplo, *"fui demitido sem justa causa, quais são meus direitos?"*, e recebe uma orientação baseada na CLT e nas súmulas do TST, em linguagem simples, a qualquer hora. Quando o caso pede um cálculo, como o de uma rescisão, **a própria IA identifica os dados que faltam e monta um formulário** para o associado preencher. Funciona com o **Claude (Anthropic)**, com:
 - **limite mensal de consultas por plano**, para manter o custo previsível para o sindicato;
 - histórico de consultas do associado;
 - relatório de uso para a diretoria;
