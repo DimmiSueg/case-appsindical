@@ -1,7 +1,7 @@
 # AppSindical: o sindicato no bolso do associado, com assistente jurídico de IA
 
 > **Cliente:** Sindibank
-> **Entrega:** [AtosSofts](https://atossofts.com.br)
+> **Entrega:** [AtosSofts](https://atossofts.com.br) · **Em produção:** app do sindicato Sincoplan na [Google Play](https://play.google.com/store/apps/details?id=br.com.sincoplan)
 > **Código:** privado (propriedade do cliente). Este repositório mostra só a arquitetura e as funcionalidades.
 
 <p align="center">
@@ -13,7 +13,7 @@
 <p align="center">
   <img src="img/4-carteirinha.jpg" width="380" alt="Carteirinha digital com QR Code (dados do associado ocultados)">
 </p>
-<p align="center"><sub>Telas do app em uso por um dos sindicatos atendidos (Sincoplan). Dados pessoais do associado ocultados.</sub></p>
+<p align="center"><sub>Telas do app do Sincoplan, um dos sindicatos atendidos (<a href="https://play.google.com/store/apps/details?id=br.com.sincoplan">ver na Google Play</a>). Dados pessoais do associado ocultados.</sub></p>
 
 ---
 
